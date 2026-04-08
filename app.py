@@ -64,4 +64,4 @@ def update():
 
 if __name__ == "__main__":
     update()
-   print("Yeni sürüm çalıştı 🎉")
+    print("Yeni sürüm çalıştı 🎉")
